@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\bin\Debug\net8.0\CRUD Operations With OOP.exe
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\bin\Debug\net8.0\CRUD Operations With OOP.deps.json
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\bin\Debug\net8.0\CRUD Operations With OOP.runtimeconfig.json
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\bin\Debug\net8.0\CRUD Operations With OOP.dll
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\bin\Debug\net8.0\CRUD Operations With OOP.pdb
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\CRUD Operations With OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\CRUD Operations With OOP.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\CRUD Operations With OOP.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\CRUD Operations With OOP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\CRUD Operations With OOP.dll
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\refint\CRUD Operations With OOP.dll
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\CRUD Operations With OOP.pdb
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\CRUD Operations With OOP.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\CRUD_Operations_With_OOP\CRUD Operations With OOP\obj\Debug\net8.0\ref\CRUD Operations With OOP.dll
